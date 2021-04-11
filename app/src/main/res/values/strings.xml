@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Spēle krustiņi nullītes</string>
+    <string name="title_activity_game">Spēles laukums</string>
+
+    <string name="appTitle">Krustiņi nullītes</string>
+    <string name="playButton">Sākt</string>
+
+    <string name="playerSetup">Ievadiet Jūsu vārdus</string>
+    <string name="Label1">Spēlētājs 1</string>
+    <string name="Label2">Spēlētājs 2</string>
+    <string name="submitButton">Apstiprināt</string>
+    <string name="NameHint">Ievaidet Jūsu vārdu</string>
+
+    <string name="playAgainButton">Spēlēt vēlreiz</string>
+    <string name="homeButton">Sākt no jauna</string>
+
+    <string name="startGame">Sākt spēli</string>
+    <string name="editNames">Labot vārdus</string>
+
+    <string name="tieGame">Neizšķirts!</string>
+</resources>
